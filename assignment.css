@@ -13,3 +13,14 @@
 
 /* Add your CSS styles below this line */
 
+a:active {
+    background-color: rgb(73, 29, 154);
+    font-style: italic;
+} 
+
+a {
+    background-color: orangered;
+    border-radius: 5px;
+    border: 2px solid rgb(129, 1, 50);
+    padding: 8px;
+}
